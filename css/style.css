@@ -1,0 +1,42 @@
+.hero {
+  background-image: url("../images/hero_img.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.text-13 {
+  font-size: 0.813rem;
+  line-height: 1.125rem;
+}
+
+.font-rubik {
+  font-family: "Rubik", sans-serif;
+}
+
+.text-gray {
+  color: #707070;
+}
+
+.swiper-scrollbar {
+  --swiper-scrollbar-bg-color: white;
+  --swiper-scrollbar-drag-bg-color: #fcd404;
+  --swiper-scrollbar-size: 2px;
+  --swiper-scrollbar-sides-offset: 0%;
+  --swiper-scrollbar-bottom: 0px;
+}
+
+.bg-yellow {
+  background-color: #fcd404;
+}
+
+.bg-darkblue {
+  background-color: #0a142f;
+}
+
+.border-yellow {
+  border-color: #fcd404;
+}/*# sourceMappingURL=style.css.map */
